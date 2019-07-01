@@ -1,0 +1,31 @@
+{
+   "background": {
+      "scripts": [ "js/jquery.min.js", "js/tools.js", "js/datamanagement.js", "js/sites.js", "js/background.js" ]
+   },
+   "browser_action": {
+      "default_icon": "images/nicon.png",
+      "default_popup": "popup.html",
+      "default_title": "Limitless"
+   },
+   "chrome_url_overrides": {
+      "newtab": "tabpage.html"
+   },
+   "content_security_policy": "script-src 'self' https://ssl.google-analytics.com; object-src 'self'",
+   "default_locale": "en",
+   "description": "__MSG_appDesc__",
+   "icons": {
+      "128": "images/nicon.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhWv0c7fEP1uW/eee2bkgl/zAF4B7HftAg4a02hjzLdU1QHJzssySuo7EjA67GF74AzqsMJvJCx4N+zCQCqsYd4ZQuLUpGVRjqcgmNGF+dDj2oo6gMtc7RhvdOud08T3U9ikeeCfQCfpg0fs5XRCE2mejFKw6MlpNWiGeBdd62/jpaiaCVIvTk8Ji13HwnxPnqxmhjvM6z8RYb3Oe3dldOPJX5wp78f/OapQuLxgmfXISs23n6c2W8lbiD/AZOBxsIzA7VSbqsbJyItVs+SAkBuQ0qdO4COfHv7zdARYADc+RmJpvQgEZNIlDp+cVY8RfAckiEnmcRCjmU+PUBZWwMQIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_appName__",
+   "oauth2": {
+      "client_id": "442263181641-6g2v9gaumvda1p05mdn2ahk1b20t7uit.apps.googleusercontent.com",
+      "scopes": [ "https://www.googleapis.com/auth/gmail.readonly", "https://www.googleapis.com/auth/userinfo.email", "https://www.googleapis.com/auth/userinfo.profile" ]
+   },
+   "optional_permissions": [ "topSites" ],
+   "options_page": "tabpage.html",
+   "permissions": [ "identity", "idle", "tabs", "geolocation", "storage", "unlimitedStorage", "http://*.belimitless.co/*", "https://limitless-py.appspot.com/*" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.3.7"
+}

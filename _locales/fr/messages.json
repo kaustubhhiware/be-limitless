@@ -1,0 +1,103 @@
+{
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Suivre votre temps et rester concentré sur vos objectifs. Constamment être motivé pour rester à votre meilleur."
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store.",
+      "message": "Be Limitless"
+   },
+   "breakfast": {
+      "message": "Un petit déjeuner sain commence bien la journée!"
+   },
+   "breakfast_s": {
+      "message": "Comme ils disent, le bonheur commence par un petit déjeuner tranquille."
+   },
+   "evening": {
+      "message": "Une autre belle soirée. Une courte promenade peut-être?"
+   },
+   "evening_s": {
+      "message": "&#timeInBrowser dans le navigateur aujourd'hui."
+   },
+   "fitness": {
+      "message": "Excuses brûler zéro calories."
+   },
+   "fitness_s": {
+      "message": "J'espère que vous avez un excellent entraînement aujourd'hui!"
+   },
+   "focus": {
+      "message": "Nous allons recentrer."
+   },
+   "focus_s": {
+      "message": "&#timeInSocial sur les sites sociaux d'aujourd'hui."
+   },
+   "goal": {
+      "message": "Objectif d'aujourd'hui: \u003Cdiv id='goalParent'>\u003Cinput id='inputFill' class='input-enter-goal-after' placeholder=' Entrez un but et appuyez sur Entrée! ' maxlength='50' size='50' value='&#goalString'>\u003C/div>"
+   },
+   "goal_notSet": {
+      "message": "Objectif d'aujourd'hui: \u003Cdiv id='goalParent'>\u003Cinput id='inputFill' class='input-enter-goal-after' placeholder=' Entrez un but et appuyez sur Entrée! ' maxlength='50' size='50'>\u003C/div>"
+   },
+   "knowledge": {
+      "message": "Continuez à apprendre."
+   },
+   "knowledge_s": {
+      "message": "&#timeInLearning sur l'apprentissage aujourd'hui."
+   },
+   "login_google": {
+      "message": "Limitless + Google = Plus de productivité"
+   },
+   "login_google_s": {
+      "message": "\u003Cdiv class='googleLoginContainer'>\u003Cdiv>Connectez votre compte Google et accédez rapidement à des fonctionnalités telles que -\u003C/div>\u003Cul>\u003Cli>Synchronisation, To-Dos et Analytics entre périphériques.\u003C/li>\u003Cli>Email depuis le nouvel onglet lui-même.\u003C/li>\u003Cli>Intégration de calendrier.\u003C/li>\u003Cli>Complètement sécurisé\u003C/li>\u003C/ul>\u003Cdiv>\u003Cbr/>\u003Cbutton href='#' data-place='loginFlow' type='submit' class='loginFlowGoogleBtn authenticateButton btn-red' style=''>Se connecter\u003C/button>\u003C/div>\u003Cdiv>\u003Ca href='#' class='addmessageLink skipGoogleInFlashScreen'>Sauter\u003C/a>\u003C/div>\u003C/div>"
+   },
+   "login_spext": {
+      "message": "\u003Cspan class='tealColor'>We're working on a new kind of Notepad.\u003C/span>"
+   },
+   "login_spext_s": {
+      "message": "\u003Cdiv class='spextContainer'>\u003Cdiv>It automatically converts speech (any audio or video) to text. So we're calling it Spext.\u003C/div>\u003Cul>\u003Cli>Perfect for lectures, speeches or interviews\u003C/li>\u003Cli>Highlight and find important things inside the audio/video\u003C/li>\u003Cli>Will soon sync with Limitless Notepad\u003C/li>\u003C/ul>\u003Cdiv>\u003Cbr/>\u003Cbutton id='learnMore' class='btn-teal'>LEARN MORE\u003C/button>\u003C/div>\u003Cdiv>\u003Ca id='whyAreWeWorkingOnThis'>Why are we working on this?\u003C/a>\u003C/div>\u003C/div>"
+   },
+   "lunch": {
+      "message": "Bonjour, &#name"
+   },
+   "lunch_s": {
+      "message": "C'est presque l'heure du déjeuner!"
+   },
+   "morning": {
+      "message": "Bonjour, &#name"
+   },
+   "morning_s": {
+      "message": "C'est un jour nouveau, faisons quelque chose de génial."
+   },
+   "night": {
+      "message": "Obtenez une bonne nuit de sommeil."
+   },
+   "night_s": {
+      "message": "&#timeInBrowser dans le navigateur d'aujourd'hui."
+   },
+   "quote": {
+      "message": "Vous avez dépensé \u003Cspan class='categoryStatDetailsLink' data-category='&#categoryName']'>&#categoryDuration\u003C/span> sur \u003Cspan class='categoryStatDetailsLink' data-category='&#categoryName'>&#categoryName\u003C/span> aujourd'hui."
+   },
+   "remaining_time": {
+      "message": "&#timeRemainingSeconds secondes restantes dans la journée."
+   },
+   "remaining_time_s": {
+      "message": "Faisons le plus de lui!"
+   },
+   "review_app": {
+      "message": "Nous vous aimons &#name!"
+   },
+   "review_app_s": {
+      "message": "J'espère que vous aussi! :) Écrire un \u003Ca class='markReviewDone' href='https://chrome.google.com/webstore/detail/be-limitless/jdpnljppdhjpafeaokemhcggofohekbp/reviews' target='_blank'>Commentaire\u003C/a> et dites à vos amis."
+   },
+   "short_nap": {
+      "message": "Que diriez-vous une petite sieste?"
+   },
+   "short_nap_s": {
+      "message": "Il peut charger le reste de votre journée :)"
+   },
+   "take_break": {
+      "message": "Prenez une pause."
+   },
+   "take_break_s": {
+      "message": "&#timeInBrowser dans le navigateur aujourd'hui."
+   }
+}

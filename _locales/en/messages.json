@@ -1,0 +1,103 @@
+{
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Track your time and stay focused on your goals. Constantly be motivated to stay at your best."
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store.",
+      "message": "Be Limitless"
+   },
+   "breakfast": {
+      "message": "A healthy breakfast starts the day right!"
+   },
+   "breakfast_s": {
+      "message": "As they say, happiness begins with a leisurely breakfast."
+   },
+   "evening": {
+      "message": "Another beautiful evening. A short walk maybe?"
+   },
+   "evening_s": {
+      "message": "&#timeInBrowser in the browser today."
+   },
+   "fitness": {
+      "message": "Excuses burn zero calories."
+   },
+   "fitness_s": {
+      "message": "Hope you have a great workout today!"
+   },
+   "focus": {
+      "message": "Let's refocus."
+   },
+   "focus_s": {
+      "message": "&#timeInSocial on social sites today."
+   },
+   "goal": {
+      "message": "Today's goal: \u003Cdiv id='goalParent'>\u003Cinput id='inputFill' class='input-enter-goal-after' placeholder='Enter a goal and press enter!' maxlength='50' size='50' value='&#goalString'>\u003C/div>"
+   },
+   "goal_notSet": {
+      "message": "Today's goal:\u003Cdiv id='goalParent'>\u003Cinput id='inputFill' class='input-enter-goal-after' placeholder=' Enter a goal and press enter! ' maxlength='50' size='50'>\u003C/div>"
+   },
+   "knowledge": {
+      "message": "Keep Learning."
+   },
+   "knowledge_s": {
+      "message": "&#timeInLearning on learning today."
+   },
+   "login_google": {
+      "message": "Limitless + Google = More Productivity"
+   },
+   "login_google_s": {
+      "message": "\u003Cdiv class='googleLoginContainer'>\u003Cdiv>Connect your Google account and get early access to features like - \u003C/div>\u003Cul>\u003Cli>Sync notes, To-Dos and analytics across devices.\u003C/li>\u003Cli>Email from the new tab itself.\u003C/li>\u003Cli>Calender integration.\u003C/li>\u003Cli>Completely secure\u003C/li>\u003C/ul>\u003Cdiv>\u003Cbr/>\u003Cbutton href='#' data-place='loginFlow' type='submit' class='loginFlowGoogleBtn authenticateButton btn-red' style=''>LOGIN\u003C/button>\u003C/div>\u003Cdiv>\u003Ca href='#' class='addmessageLink skipGoogleInFlashScreen'>Skip\u003C/a>\u003C/div>\u003C/div>"
+   },
+   "login_spext": {
+      "message": "\u003Cspan class='tealColor'>We're working on a new kind of Notepad.\u003C/span>"
+   },
+   "login_spext_s": {
+      "message": "\u003Cdiv class='spextContainer'>\u003Cdiv>It automatically converts speech (any audio or video) to text. So we're calling it Spext.\u003C/div>\u003Cul>\u003Cli>Perfect for lectures, speeches or interviews\u003C/li>\u003Cli>Highlight and find important things inside the audio/video\u003C/li>\u003Cli>Will soon sync with Limitless Notepad\u003C/li>\u003C/ul>\u003Cdiv>\u003Cbr/>\u003Cbutton id='learnMore' class='btn-teal'>LEARN MORE\u003C/button>\u003C/div>\u003Cdiv>\u003Ca id='whyAreWeWorkingOnThis'>Why are we working on this?\u003C/a>\u003C/div>\u003C/div>"
+   },
+   "lunch": {
+      "message": "Good afternoon, &#name"
+   },
+   "lunch_s": {
+      "message": "It's almost lunch time! Hungry?"
+   },
+   "morning": {
+      "message": "Good Morning, &#name"
+   },
+   "morning_s": {
+      "message": "It is a brand new day! Let's do something awesome."
+   },
+   "night": {
+      "message": "Get a good night's sleep."
+   },
+   "night_s": {
+      "message": "&#timeInBrowser in the browser today already."
+   },
+   "quote": {
+      "message": "You have spent \u003Cspan class='categoryStatDetailsLink' data-category='&#categoryName']'>&#categoryDuration\u003C/span> on \u003Cspan class='categoryStatDetailsLink' data-category='&#categoryName'>&#categoryName\u003C/span> today."
+   },
+   "remaining_time": {
+      "message": "&#timeRemainingSeconds seconds remaining in the day."
+   },
+   "remaining_time_s": {
+      "message": "Let's make the most of it!"
+   },
+   "review_app": {
+      "message": "We love you &#name!"
+   },
+   "review_app_s": {
+      "message": "Hope you do too! :) Write a \u003Ca class='markReviewDone' href='https://chrome.google.com/webstore/detail/be-limitless/jdpnljppdhjpafeaokemhcggofohekbp/reviews' target='_blank'>review\u003C/a> and tell your friends."
+   },
+   "short_nap": {
+      "message": "How about a short nap?"
+   },
+   "short_nap_s": {
+      "message": "It can power charge the rest of your day :)"
+   },
+   "take_break": {
+      "message": "Take a break."
+   },
+   "take_break_s": {
+      "message": "&#timeInBrowser in the browser today."
+   }
+}
